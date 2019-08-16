@@ -1,0 +1,15 @@
+c:\users\micjan11\source\repos\Regiony\Regiony\bin\Debug\Regiony.exe.config
+c:\users\micjan11\source\repos\Regiony\Regiony\bin\Debug\Regiony.exe
+c:\users\micjan11\source\repos\Regiony\Regiony\bin\Debug\Regiony.pdb
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.csprojAssemblyReference.cache
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\MainWindow.g.cs
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\App.g.cs
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony_MarkupCompile.cache
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony_MarkupCompile.lref
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\MainWindow.baml
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.g.resources
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.Properties.Resources.resources
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.csproj.GenerateResource.cache
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.csproj.CoreCompileInputs.cache
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.exe
+c:\users\micjan11\source\repos\Regiony\Regiony\obj\Debug\Regiony.pdb
